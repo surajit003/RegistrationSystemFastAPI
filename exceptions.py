@@ -1,0 +1,2 @@
+class StudentAlreadyExistException(Exception):
+    pass
